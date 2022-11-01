@@ -60,3 +60,9 @@ HTML, CSS, Javascript, Vue.js
 ## Feedback
 
 If you have any feedback, please reach out to us at mahmoudelkaruony220@gmail.com 📧
+
+## Screenshots
+
+### Home page
+
+![](./public/my-blog.png)

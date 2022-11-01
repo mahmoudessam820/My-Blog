@@ -22,15 +22,16 @@
         <ul>
 
           <li>
-            <a href="#" class="footer-link">Advertise with us</a>
+            <a href="https://www.linkedin.com/in/mahmoud-el-kariouny-822719149/" class="footer-link"
+              target="_blank">LinkdIn</a>
           </li>
 
           <li>
-            <a href="#" class="footer-link">About Us</a>
+            <a href="https://github.com/mahmoudessam820" class="footer-link" target="_blank">GitHub</a>
           </li>
 
           <li>
-            <a href="#" class="footer-link">Contact Us</a>
+            <a href="https://twitter.com/Mahmoud42275" class="footer-link" target="_blank">Twitter</a>
           </li>
 
         </ul>
@@ -39,20 +40,20 @@
 
       <div class="wrapper">
 
-        <p class="footer-title">Legal Stuff</p>
+        <p class="footer-title">Another Blog</p>
 
         <ul>
 
           <li>
-            <a href="#" class="footer-link">Privacy Notice</a>
+            <a href="https://dev.to/mahmoudessam/" class="footer-link" target="_blank">Dev.to</a>
           </li>
 
           <li>
-            <a href="#" class="footer-link">Cookie Policy</a>
+            <a href="https://tealfeed.com/mahmoud_134478" class="footer-link" target="_blank">TealFeed</a>
           </li>
 
           <li>
-            <a href="#" class="footer-link">Terms Of Use</a>
+            <a href="https://www.medium.com/" class="footer-link" target="_blank">Medium</a>
           </li>
 
         </ul>
