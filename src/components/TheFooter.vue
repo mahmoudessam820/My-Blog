@@ -62,106 +62,13 @@
     </div>
 
     <p class="copyright">
-      &copy; Copyright 2022 <a href="#">Code-Sky</a>
+      &copy; Copyright 2022 <a href="https://www.linkedin.com/in/mahmoud-el-kariouny-822719149/">Code-Sky</a>
     </p>
   </footer>
 </template>
 
 <style scoped>
-footer {
-  background: var(--background-primary);
-}
-
-footer .container {
-  padding: var(--py) 15px;
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: 30px;
-}
-
-footer .wrapper {
-  text-align: center;
-}
-
-.footer-logo {
-  margin-bottom: 10px;
-}
-
-.footer-text {
-  color: var(--foreground-secondary);
-  max-width: 300px;
-  margin-inline: auto;
-  margin: auto;
-  /* fallback for margin-inline */
-}
-
-.footer-title {
-  color: var(--foreground-primary);
-  font-weight: 700;
-  margin-bottom: 0.4rem;
-}
-
-.footer-link {
-  color: var(--foreground-secondary);
-}
-
-.footer-link:hover {
-  color: var(--accent);
-}
-
-.copyright {
-  color: var(--foreground-secondary);
-  font-size: var(--fs-4);
-  text-align: center;
-  padding: 1rem;
-  border-top: 1px solid var(--action-primary);
-}
-
-.copyright a {
-  color: var(--accent);
-  font-weight: 500;
-}
-
-.copyright a:hover {
-  text-decoration: underline;
-}
-
-/**
- * responsive for larger than 650px screen
-*/
-
-@media (min-width: 650px) {
-  footer .container {
-    padding: var(--py) 30px;
-    grid-template-columns: 2fr 1fr 1fr;
-  }
-
-  footer .wrapper {
-    text-align: left;
-  }
-
-  .footer-text {
-    margin: 0;
-  }
-}
-
-
-/**
- * responsive for larger than 1024px screen
- */
-
-@media (min-width: 1024px) {
-
-  .footer-title {
-    font-size: 1.125rem;
-  }
-
-  .footer-link {
-    margin-bottom: 0.3rem;
-  }
-
-
-}
+@import "../assets/css/footer-style.css";
 </style>
 
 <script>

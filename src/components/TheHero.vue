@@ -9,11 +9,12 @@
         <p class="h3">Specialized in web-development</p>
 
         <div class="btn-group">
-          <a href="https://www.linkedin.com" class="btn btn-primary" target="_blank">Contact Me <ion-icon
-              name="code-slash"></ion-icon></a>
+          <a href="https://www.linkedin.com/in/mahmoud-el-kariouny-822719149/" class="btn btn-primary"
+            target="_blank">Contact Me<ion-icon name='call'>
+            </ion-icon></a>
 
-          <a href="https://drive.google.com/file/d/1Q1UUr9EIy2DEyHmmDC_VU0qeqq3npICM/view" class="btn btn-secondary"
-            target="_blank">Download CV <ion-icon name="cloud-download-outline"></ion-icon></a>
+          <a href="https://www.linkedin.com/in/mahmoud-el-kariouny-822719149/" class="btn btn-secondary"
+            target="_blank">About Me <ion-icon name="code-slash"></ion-icon></a>
         </div>
       </div>
 
@@ -30,39 +31,7 @@
 </template>
 
 <style scoped>
-.hero {
-  background: var(--background-primary);
-  padding-top: 2rem;
-  padding-bottom: var(--py);
-  text-align: center;
-}
-
-.hero .h1 {
-  /* margin-bottom: 1rem; */
-  line-height: 1.6;
-}
-
-.hero b {
-  color: var(--accent);
-  font-weight: inherit;
-}
-
-.hero .h3 {
-  color: var(--foreground-secondary);
-  margin-bottom: 2rem;
-}
-
-.hero .btn-group {
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-  gap: 15px;
-  text-align: center;
-}
-
-.hero .right {
-  display: none;
-}
+@import "../assets/css/hero-style.css";
 </style>
 
 <script>
