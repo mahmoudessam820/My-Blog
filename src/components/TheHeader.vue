@@ -9,7 +9,7 @@
         </a>
 
         <div class="btn-group">
-          <button class="theme-btn theme-btn-mobile light">
+          <button class="theme-btn theme-btn-mobile light" v-on:click="themeColor(theme)">
             <ion-icon name="moon" class="moon"></ion-icon>
             <ion-icon name="sunny" class="sun"></ion-icon>
           </button>
@@ -89,9 +89,13 @@
 <script>
 export default {
   name: "TheHeader",
+  props: {
+    themeColor: Function
+  },
   data: function () {
     return {
       isActive: true,
+      theme: 'dark-theme',
     }
   },
   methods: {
