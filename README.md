@@ -6,6 +6,22 @@ Blogging is a great way to communicate with friends, family, and the world at la
 
 Blogging is the process of writing a personal weblog, or blog, as an online diary.
 
+<div align="center">
+  
+  <h2 align="center">My-Blog 📰</h2>
+
+My-Blog is a fully responsive blog website, <br />Responsive for all devices, build using Vue.js.
+
+<a href="https://half-mark.surge.sh/"><strong>➥ Live Demo</strong></a>
+
+</div>
+
+<br />
+
+### Demo Screeshots
+
+![My-Blog Desktop Demo](./public/dark-theme.jpg "Desktop Demo")
+
 ## Tech Stack (Dependencies)
 
 ### Frontend Dependencies
