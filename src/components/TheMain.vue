@@ -30,7 +30,7 @@
 
               <div class="wrapper-flex">
                 <div class="profile-wrapper">
-                  <img src="../assets/images/a.png" alt="Mahmoud Eassm" width="50" />
+                  <img src="../assets/images/author.png" alt="Mahmoud Eassm" />
                 </div>
 
                 <div class="wrapper">
@@ -71,7 +71,7 @@
 
               <div class="wrapper-flex">
                 <div class="profile-wrapper">
-                  <img src="../assets/images/a.png" alt="Mahmoud Eassm" width="50" />
+                  <img src="../assets/images/author.png" alt="Mahmoud Eassm" />
                 </div>
 
                 <div class="wrapper">
@@ -111,7 +111,7 @@
 
               <div class="wrapper-flex">
                 <div class="profile-wrapper">
-                  <img src="../assets/images/a.png" alt="Mahmoud Eassm" width="50" />
+                  <img src="../assets/images/author.png" alt="Mahmoud Eassm" />
                 </div>
 
                 <div class="wrapper">
@@ -154,7 +154,7 @@
 
               <div class="wrapper-flex">
                 <div class="profile-wrapper">
-                  <img src="../assets/images/a.png" alt="Mahmoud Eassm" width="50" />
+                  <img src="../assets/images/author.png" alt="Mahmoud Eassm" />
                 </div>
 
                 <div class="wrapper">
@@ -194,7 +194,7 @@
 
               <div class="wrapper-flex">
                 <div class="profile-wrapper">
-                  <img src="../assets/images/a.png" alt="Mahmoud Eassm" width="50" />
+                  <img src="../assets/images/author.png" alt="Mahmoud Eassm" />
                 </div>
 
                 <div class="wrapper">
@@ -236,7 +236,7 @@
 
               <div class="wrapper-flex">
                 <div class="profile-wrapper">
-                  <img src="../assets/images/a.png" alt="Mahmoud Eassm" width="50" />
+                  <img src="../assets/images/author.png" alt="Mahmoud Eassm" />
                 </div>
 
                 <div class="wrapper">
@@ -276,7 +276,7 @@
 
               <div class="wrapper-flex">
                 <div class="profile-wrapper">
-                  <img src="../assets/images/a.png" alt="Mahmoud Eassm" width="50" />
+                  <img src="../assets/images/author.png" alt="Mahmoud Eassm" />
                 </div>
 
                 <div class="wrapper">
@@ -317,7 +317,7 @@
 
               <div class="wrapper-flex">
                 <div class="profile-wrapper">
-                  <img src="../assets/images/a.png" alt="Mahmoud Eassm" width="50" />
+                  <img src="../assets/images/author.png" alt="Mahmoud Eassm" />
                 </div>
 
                 <div class="wrapper">
@@ -357,7 +357,7 @@
 
               <div class="wrapper-flex">
                 <div class="profile-wrapper">
-                  <img src="../assets/images/a.png" alt="Mahmoud Eassm" width="50" />
+                  <img src="../assets/images/author.png" alt="Mahmoud Eassm" />
                 </div>
 
                 <div class="wrapper">
@@ -399,7 +399,7 @@
 
               <div class="wrapper-flex">
                 <div class="profile-wrapper">
-                  <img src="../assets/images/a.png" alt="Mahmoud Eassm" width="50" />
+                  <img src="../assets/images/author.png" alt="Mahmoud Eassm" />
                 </div>
 
                 <div class="wrapper">

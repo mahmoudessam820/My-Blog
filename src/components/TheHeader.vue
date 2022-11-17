@@ -4,8 +4,8 @@
       <nav class="navbar">
         <!-- logo -->
         <a href="#">
-          <img src="../assets/images/logo-light.svg" alt="logo-light" class="logo-light" width="150" />
-          <img src="../assets/images/logo-dark.svg" alt="logo-dark" class="logo-dark" width="150" />
+          <img src="../assets/images/logo.png" alt="logo-light" class="logo-light" />
+          <img src="../assets/images/logo.png" alt="logo-dark" class="logo-dark" />
         </a>
 
         <div class="btn-group">
@@ -26,11 +26,13 @@
             </li>
 
             <li>
-              <a href="#" class="nav-link">About Me</a>
+              <a href="https://www.linkedin.com/in/mahmoud-el-kariouny-822719149/" target="_blank"
+                class="nav-link">About Me</a>
             </li>
 
             <li>
-              <a href="#" class="nav-link">Contact</a>
+              <a href="https://www.linkedin.com/in/mahmoud-el-kariouny-822719149/" target="_blank"
+                class="nav-link">Contact</a>
             </li>
           </ul>
 
@@ -54,11 +56,13 @@
               </li>
 
               <li class="nav-item">
-                <a href="#" class="nav-link">About Me</a>
+                <a href="https://www.linkedin.com/in/mahmoud-el-kariouny-822719149/" target="_blank"
+                  class="nav-link">About Me</a>
               </li>
 
               <li class="nav-item">
-                <a href="#" class="nav-link">Contact</a>
+                <a href="https://www.linkedin.com/in/mahmoud-el-kariouny-822719149/" target="_blank"
+                  class="nav-link">Contact</a>
               </li>
             </ul>
           </div>
@@ -68,15 +72,18 @@
 
             <ul>
               <li class="nav-item">
-                <a href="#" class="nav-link">Database</a>
+                <a href="https://dev.to/mahmoudessam/ultimate-guide-to-learn-sql-basics-intermediate-advanced-3e0h"
+                  target="_blank" class="nav-link">Database</a>
               </li>
 
               <li class="nav-item">
-                <a href="#" class="nav-link">Accessibility</a>
+                <a href="https://dev.to/mahmoudessam/the-architecture-of-web-browsers-1o1k" target="_blank"
+                  class="nav-link">Software Development</a>
               </li>
 
               <li class="nav-item">
-                <a href="#" class="nav-link">Web Performance</a>
+                <a href="https://dev.to/mahmoudessam/introduction-to-http-5hkj" target="_blank" class="nav-link">Web
+                  Performance</a>
               </li>
             </ul>
           </div>

@@ -198,8 +198,8 @@
   }
 
   .profile-wrapper {
-    width: 56px;
-    height: 56px;
+    width: 48px;
+    height: 64px;
     background: var(--action-primary);
     padding: 3px;
     border-radius: 50%;

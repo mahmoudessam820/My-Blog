@@ -5,12 +5,12 @@
       <div class="wrapper">
 
         <a href="#" class="footer-logo">
-          <img src="../assets/images/logo-light.svg" alt="DevBlog's Logo" width="150" class="logo-light">
-          <img src="../assets/images/logo-dark.svg" alt="DevBlog's Logo" width="150" class="logo-dark">
+          <img src="../assets/images/logo.png" alt="logo-light" class="logo-light">
+          <img src="../assets/images/logo.png" alt="logo-dark" class="logo-dark">
         </a>
 
         <p class="footer-text">
-          Learn about Web accessibility, Web performance, and Database management.
+          Read about Web performance, and Database management Programming languages.
         </p>
 
       </div>
@@ -63,7 +63,7 @@
     </div>
 
     <p class="copyright">
-      &copy; Copyright 2022 <a href="https://www.linkedin.com/in/mahmoud-el-kariouny-822719149/">Code-Sky</a>
+      &copy; Copyright 2022 <a href="https://www.linkedin.com/in/mahmoud-el-kariouny-822719149/">Code-Scar</a>
     </p>
   </footer>
 </template>
