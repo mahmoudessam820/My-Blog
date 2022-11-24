@@ -5,8 +5,7 @@ describe("TheHeader.vue", () => {
 
   let wrapper;
   beforeEach(() => {
-    wrapper = shallowMount(TheHeader, {
-    });
+    wrapper = shallowMount(TheHeader, {});
   });
 
   it("renders header component", () => {
