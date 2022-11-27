@@ -63,7 +63,7 @@
     </div>
 
     <p class="copyright">
-      &copy; Copyright 2022 <a href="https://www.linkedin.com/in/mahmoud-el-kariouny-822719149/">Code-Scar</a>
+      &copy; Copyright 2022 <a href="https://www.linkedin.com/in/mahmoud-el-kariouny-822719149/">Code-Units</a>
     </p>
   </footer>
 </template>

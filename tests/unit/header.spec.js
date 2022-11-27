@@ -3,7 +3,7 @@ import TheHeader from "@/components/TheHeader.vue";
 
 describe("TheHeader.vue", () => {
 
-  let wrapper;
+  let wrapper = null;
   beforeEach(() => {
     wrapper = shallowMount(TheHeader, {});
   });
